@@ -14,4 +14,4 @@ console.log(a);
 // var b = [1,2,3];
 var b = a;
 console.log(b);
-console.log(b);
+// console.log(b);
